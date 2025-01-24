@@ -5,4 +5,4 @@ Se requiere un programa que permita la inscripción, matrícula y seguimiento de
     - Mejores puestos en los torneos 
     - Informe de pagos mensuales 
 
-    otro
+    otro2
